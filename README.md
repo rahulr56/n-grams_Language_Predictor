@@ -15,7 +15,7 @@
 6.    REPO OWNERS AND ADMINS
 
 ###  SETUP ###
-* Clone the repo at [n-gram Language Predictor](https://cci-git.uncc.edu/rahul/NLP_n_grams.git)
+* Clone the repo at [n-gram Language Predictor](https://github.com/rahulr56/n-grams_Language_Predictor.git)
 * Run the file predict.sh as `bash predict.sh`
 
 ### MINIMUM SYSTEM REQUIREMENTS ###
